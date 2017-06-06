@@ -34,6 +34,7 @@ Collate:
     'libpaths.R'
     'locale.R'
     'makevars.R'
+    'namespace.R'
     'options.R'
     'par.R'
     'path.R'
@@ -42,5 +43,5 @@ Collate:
     'sink.R'
     'utils.R'
     'with.R'
-RoxygenNote: 6.0.0
+RoxygenNote: 6.0.1
 Roxygen: list(markdown = TRUE)

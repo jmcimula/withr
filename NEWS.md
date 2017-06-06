@@ -1,3 +1,7 @@
+# devel
+- `with_namespace()` function added, to run code with a modified object search
+  path.
+
 # 1.0.2
 - `with_makevars()` gains an `assignment` argument to allow specifying
   additional assignment types.
